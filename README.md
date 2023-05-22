@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Anthropology - Study of Man
-nav_exclude: true
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
@@ -20,4 +20,4 @@ Following courses are offered in the current semester
 
 
 ## Pt DDU Gov Girls PG College Lucknow
-The Government controlled institution was established in the capital city of the State in the year 1997 to cater to needs of higher education of women. The credit of establishing the institution goes to the then Prime Minister of India who donated Rs. twenty five lakh from discretionary fund of Member of Parliament and laid foundation of the institution on 13.4.1997. The building of the institution constructed by Uttar Pradesh Housing and Development Board, Lucknow includes the buildings for the faculties of Arts, Commerce and Science. The first academic session in the faculty Arts at the undergraduate level started during 1997-98 and that in the faculty of Commerce started only during the session 2003-04. The first academic session in the faculty Science at the undergraduate level started during 2006-07. The total number of students during the current session i.e. 2008-09 is 1977. Uttar Pradesh Rajarshi Tandon Open University,Allahabad opened Study Centre in the institution from July,2007 under which courses namely-Post Graduate Diploma in Financial Management, Diploma in Health Education and Nutrition, Bachelor in Library Science, Diploma in Diet and Nutrition, Diploma in Fashion Designing and Post Graduate Courses in Sociology, Hindi, Sociology, Economics and Home Science.
+The Government controlled institution was established in the capital city of the State in the year 1997 to cater to needs of higher education of women. The credit of establishing the institution goes to the then Prime Minister of India who donated Rs. twenty five lakh from discretionary fund of Member of Parliament and laid foundation of the institution on 13.4.1997. The building of the institution constructed by Uttar Pradesh Housing and Development Board, Lucknow includes the buildings for the faculties of Arts, Commerce and Science. The first academic session in the faculty Arts at the undergraduate level started during 1997-98 and that in the faculty of Commerce started only during the session 2003-04. The first academic session in the faculty Science at the undergraduate level started during 2006-07. Uttar Pradesh Rajarshi Tandon Open University, Allahabad opened Study Centre in the institution from July, 2007 under which courses namely-Post Graduate Diploma in Financial Management, Diploma in Health Education and Nutrition, Bachelor in Library Science, Diploma in Diet and Nutrition, Diploma in Fashion Designing and Post Graduate Courses in Sociology, Hindi, Sociology, Economics and Home Science.
