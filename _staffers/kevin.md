@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
+name: Monika Dwivedi
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: monikadwivedi18@gmail.com
+website: https://monika-ddu.github.io/
 photo: kevin.jpg
 ---
 
