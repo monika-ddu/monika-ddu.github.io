@@ -17,7 +17,7 @@ title: Anthropology
 tagline: Study of Man
 description: Anthropolgy     
 author: Monika Dwivedi
-baseurl: '/anthro' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://monika-ddu.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
