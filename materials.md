@@ -6,13 +6,13 @@ description: link to study materials
 # Study Materials 
 
 ## Physical Anthropology
-[Primates and Their Characterstics](_materials/primates.pdf) 
+[Primates and Their Characterstics](primates.pdf) 
 
-[Lower Primates](_materials/lower_primates.pdf)
+[Lower Primates](lower_primates.pdf)
 
-[Higher Primates](_materials/higher_primates.pdf) 
+[Higher Primates](higher_primates.pdf) 
 
-[Early Homonid Fossils](_materials/early-homonid-fossils.pdf) 
+[Early Homonid Fossils](early-homonid-fossils.pdf) 
 
-[Homo Erectus](_materials/homo-erectus.pdf) 
+[Homo Erectus](homo-erectus.pdf) 
 
